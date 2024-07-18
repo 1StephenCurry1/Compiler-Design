@@ -1,10 +1,10 @@
 # encoding=utf-8
 '''
-@author:   pip install zjj =_=
+@author:   zpy
 @software: Pycharm
-@time:     2019/10/11 16:31
+@time:     2024.6.2
 @filename: LL1Analysis.py
-@contact:  1326632773@qq.com
+@contact:  499608316@qq.com
 '''
 
 from tkinter.filedialog import askopenfilename
